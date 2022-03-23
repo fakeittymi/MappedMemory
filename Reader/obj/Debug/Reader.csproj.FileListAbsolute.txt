@@ -1,0 +1,10 @@
+D:\3 курс\ОС\Лаба4\Reader\bin\Debug\Reader.exe.config
+D:\3 курс\ОС\Лаба4\Reader\bin\Debug\Reader.exe
+D:\3 курс\ОС\Лаба4\Reader\bin\Debug\Reader.pdb
+D:\3 курс\ОС\Лаба4\Reader\obj\Debug\Reader.Form1.resources
+D:\3 курс\ОС\Лаба4\Reader\obj\Debug\Reader.Properties.Resources.resources
+D:\3 курс\ОС\Лаба4\Reader\obj\Debug\Reader.csproj.GenerateResource.cache
+D:\3 курс\ОС\Лаба4\Reader\obj\Debug\Reader.csproj.CoreCompileInputs.cache
+D:\3 курс\ОС\Лаба4\Reader\obj\Debug\Reader.exe
+D:\3 курс\ОС\Лаба4\Reader\obj\Debug\Reader.pdb
+D:\3 курс\ОС\Лаба4\Reader\obj\Debug\Reader.csprojAssemblyReference.cache

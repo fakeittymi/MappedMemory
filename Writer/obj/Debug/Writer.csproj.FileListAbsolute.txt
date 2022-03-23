@@ -1,0 +1,10 @@
+D:\3 курс\ОС\Лаба4\Writer\bin\Debug\Writer.exe.config
+D:\3 курс\ОС\Лаба4\Writer\bin\Debug\Writer.exe
+D:\3 курс\ОС\Лаба4\Writer\bin\Debug\Writer.pdb
+D:\3 курс\ОС\Лаба4\Writer\obj\Debug\Writer.csprojAssemblyReference.cache
+D:\3 курс\ОС\Лаба4\Writer\obj\Debug\Writer.Form1.resources
+D:\3 курс\ОС\Лаба4\Writer\obj\Debug\Writer.Properties.Resources.resources
+D:\3 курс\ОС\Лаба4\Writer\obj\Debug\Writer.csproj.GenerateResource.cache
+D:\3 курс\ОС\Лаба4\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+D:\3 курс\ОС\Лаба4\Writer\obj\Debug\Writer.exe
+D:\3 курс\ОС\Лаба4\Writer\obj\Debug\Writer.pdb
